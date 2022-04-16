@@ -1,0 +1,13 @@
+\begin{tabular}{llr}
+\toprule
+{} &                 name &        values \\
+\midrule
+0 &   mean\_squared\_error &  8.942052e-08 \\
+1 &              l1\_norm &  8.348959e-02 \\
+2 &              l2\_norm &  5.179397e-03 \\
+3 &           l\_inf\_norm &  3.911157e-04 \\
+4 &          relative\_l2 &  3.162134e-04 \\
+5 &  mean\_absolute\_error &  2.782986e-04 \\
+\bottomrule
+\end{tabular}
+
