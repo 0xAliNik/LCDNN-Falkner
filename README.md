@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 
 # Implementation of LCDNN for solving the General Falkner-Skan equation
@@ -20,12 +20,19 @@ It introduces Legendre and Chebyshev Blocks to solve the general falkner-skan eq
     
     f(0) = f'(0) = 0,  and  f'(∞) = 1
 
+## Standard Flows
 
 - **Blasius-Flow**:
     - α = 0.5 , β = 0
 
 - **Pohlhausen-Flow**:
     - α = 0,  β = 1
+
+- **Homann-Flow**:
+    - α = 2,  β = 1
+
+- **Hiemenz-Flow**:
+    - α = 1,  β = 1
 
 - **Hastings-Flow**:
     - α = 1,  β ∈ [-0.18, 2]
