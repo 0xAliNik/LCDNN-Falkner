@@ -5,7 +5,7 @@
 
 This repository contains the implementation of the method which is presented in the following paper:
 
-> Solving non-linear boundary value problems of Falkner-Skan type equations via Legendre and Chebyshev Neural Blocks
+> [Solving non-linear boundary value problems of Falkner-Skan type equations via Legendre and Chebyshev Neural Blocks](https://doi.org/10.48550/arXiv.2308.03337)
 
 It introduces Legendre and Chebyshev Blocks to solve the general falkner-skan equation.
 
